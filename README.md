@@ -29,7 +29,7 @@
 git clone https://github.com/b0uks/vibe-check.git
 cd vibe-check
 ```
-Setup
+## Setup
 Insert the Script into Your Project
 
 Copy the vibe-check.js file into your project directory.
@@ -76,7 +76,7 @@ Example
 ```
 In the above example, any paragraph containing abusive language will be cleared automatically upon page load.
 
-📁 Project Structure
+## 📁 Project Structure
 ```sql
 vibe-check/
 ├── vibe-check.js
@@ -87,7 +87,7 @@ vibe-check/
 vibe-check.js: Main JavaScript file containing the content filtering logic.
 README.md: Project documentation.
 LICENSE: Licensing information.
-🧪 Testing
+## 🧪 Testing
 To ensure the script works as expected:
 
 1. Open the HTML File
